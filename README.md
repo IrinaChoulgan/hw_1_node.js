@@ -8,5 +8,5 @@ https://ibb.co/0nV6ZjH
 https://ibb.co/G0wZSzB
 
 4. node index.js --action remove --id=3
-https://ibb.co/J3LyMMW
+https://ibb.co/bsdFY6p
 

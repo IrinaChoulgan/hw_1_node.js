@@ -34,8 +34,7 @@ const invokeAction = async({ action, id, name, email, phone }) => {
 
     case 'add':
         const contact = await addContact(name, email, phone)
-        console.log(chalk.bgGreen('Сontact added successfully'))
-        console.log(contact)
+        console.table(contact)
       break;
 
     case 'remove':
